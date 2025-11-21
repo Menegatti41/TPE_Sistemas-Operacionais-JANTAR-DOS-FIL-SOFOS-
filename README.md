@@ -4,8 +4,8 @@ Este repositório contempla uma solução para o desafio do jantar filosófico, 
 Para compilar o código e testar devem ser seguidos os seguintes passos:
 1. Efetuar o download do código anexado acima e salvalo em uma pasta;
 2. Abra o terminal na pasta em que foi salvo o código e rode os seguintes comandos:
-**  javac DiningPhilosophers.java  **
-**  java DiningPhilosophers  **
+  **javac DiningPhilosophers.java**  
+  **java DiningPhilosophers**  
 3. O terminal deve entregar saídas semelhantes às abaixo:
 [Filosofo-0] pensando...  
 [Filosofo-1] pensando...  
