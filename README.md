@@ -1,5 +1,5 @@
 # TPE_Sistemas-Operacionais-JANTAR-DOS-FILOSOFOS-
-Este repositório contempla uma solução para o desafio do jantar filosófico, feito em java, utilizando status como THINKING , HUNGRY ou EATING.\n
+Este repositório contempla uma solução para o desafio do jantar filosófico, feito em java, utilizando status como THINKING , HUNGRY ou EATING.
 ================================================================================================================================================
 Para compilar o código e testar devem ser seguidos os seguintes passos:
 1. Efetuar o download do código anexado acima e salvalo em uma pasta;
